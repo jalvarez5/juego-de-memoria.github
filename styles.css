@@ -63,26 +63,31 @@ img{
     main {
         
             width:900px ;
-            margin:120px  auto 190px;
+            margin:auto  auto 190px;
+            
             display: block;
             align-items: center;
         
     }
     .section1{
         
-        width: 420px;
+        width: 400px;
         padding: 0;
         
     }
     .section2{
         background-color: rgb(255,255,255, 0.2);
-        width: 370px;
-        height: 410px;
+        width: 340px;
+        height: 370px;
         border-top-right-radius: 8px;
         border-bottom-right-radius: 8px;
         padding: 0 20px;
     }
     img{
-        width: 50px;
+        width: 35px;
+    }
+    button{
+        width: 85px;
+        height: 60px;
     }
   }
